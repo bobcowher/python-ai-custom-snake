@@ -1,0 +1,7 @@
+This project contains a combination of a simple reinforcement learning script and a custom version of "snake"
+programmed for OpenAI's gym. To use the environment, install the requirements.txt, which should include a pip
+install of the local snake directory.
+
+Much of this code is inspired by or copied from Jose Portilla's course on Udemy.
+
+https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning/
